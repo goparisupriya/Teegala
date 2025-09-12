@@ -1,10 +1,11 @@
-package com.tnsif.second;
+
+package  com.tnsif.second;
 
 public class Datatypes {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-int num = 150000;
+		
+		int num = 150000;
 		
 		short a = 2200;
 		
@@ -30,12 +31,13 @@ int num = 150000;
 		System.out.println("Boolean : "+bool);
 		
 		
-		String name = "Sanjay";
+		String name = "helloo";
 		
 		int[] arr = {240,241,242,243,244};
 		
 		System.out.println("String : "+name);
 		System.out.println("Array : "+arr[0]+" "+arr[1]+" "+arr[2]+" "+arr[3]+" "+arr[4]);
+		
 	}
 
 }
