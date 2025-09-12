@@ -1,7 +1,6 @@
 package com.tnsif.second;
 
 public class PalindromeCheck {
-
 	public static void main(String[] args) {
         int num = 121;  // change number here
         int original = num;
